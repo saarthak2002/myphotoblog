@@ -4,8 +4,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import {App} from './App';
 import {About} from './About'
+import { SanFrancisco } from './SanFrancisco';
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+
 
 
 ReactDOM.render(
@@ -14,7 +16,8 @@ ReactDOM.render(
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/about" element={<About />} />
-      <Route path="/contact" element={<App />} />
+      <Route path="/contact" element={<About />} />
+      <Route exact path="/sfo" element={<SanFrancisco />} />
     </Routes>
   </BrowserRouter>,
   document.getElementById('root')
