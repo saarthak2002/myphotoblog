@@ -1,38 +1,185 @@
+
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.welcomeSecontion{
+  height: 250px;
+  display: inline;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.topmostSection {
+  height: 400px;
   display: flex;
-  flex-direction: column;
+  font-size: 55px;
+  justify-content: center;
+  align-items: flex-end;
+  background-image: url("./skylineoutline.jpeg");
+}
+
+.topmostSection h1{
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.topSection {
+  padding: 20px 75px;
+  color: white;
+  background-color: black;
+  height: 480px;
+  display: flex;
+  justify-content: space-between;
+  text-align: justify;
+  overflow: hidden;
+}
+
+.secondSection {
+  padding: 20px 75px;
+  color: black;
+  background-color: white;
+  height: 480px;
+  display: flex;
+  justify-content: space-between;
+  text-align: justify;
+  overflow: hidden;
+}
+
+.lastSection {
+  padding: 20px 75px;
+  color: white;
+  background-color: black;
+  height: 640px;
+  display: flex;
+  justify-content: space-between;
+  text-align: justify;
+  overflow: hidden;
+}
+
+.secondSection-left {
+  padding: 60px 0 60px 80px;
+  
+}
+
+.topSection-left {
+  padding: 60px 80px 60px 0;
+  
+}
+
+
+.topSection-left h2 {
+  font-size: 40px;
+  
+}
+
+.secondSection-left  h2 {
+  font-size: 40px;
+  margin: 0;
+  
+}
+
+.topSection-left p {
+  font-size: 19px;
+  
+}
+
+.secondSection-left p {
+  font-size: 19px;
+  
+}
+
+.topSection-right {
+  padding: 60px 40px;
+}
+
+.topSection-left h2 {
+  margin: 0;
+  
+}
+
+.viewButton {
+  box-shadow: 0px 2px 2px white;
+  color: black;
+  padding: 12px 28px;
+  border-radius: 5px;
+  outline: 0; 
+  background-color: white;
+  font-size: 18px;
+}
+
+.footer {
+  color: white;
+  background-color: #698996;
+  height: 100PX;
+  display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  flex-flow:column wrap;  
+}
+
+.footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  
+}
+
+.footer ul li {
+  padding: 10px;
+}
+
+.copyright {
+  background-color: #698996;
+  
+}
+
+a:link {
+  text-decoration: none;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+a:visited {
+  text-decoration: none;
+  color: black;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a:hover {
+  text-decoration: underline;
 }
+
+.navbarmain {
+  background-color: black;
+  height: 50px;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+.nav_link {
+  color: white;
+  justify-content: center;
+  width: 80px;
+  display: flex;
+  align-items: center;
+ np
+}
+
+a.nav_link:visited {
+  color: white;
+}
+
+a.nav_link:hover {
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #698996;
+}
+
+.title {
+  text-align: center;
+  margin: 0;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+}
+

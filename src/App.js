@@ -1,25 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+import { FirstSection } from './firstSection';
+import { SecondSection } from './secondSection';
+import {Link} from 'react-router-dom';
+import { TopSection } from './topSection';
+import { Footer } from './Footer'
+import {ThirdSection} from './thirdSection';
+import { NavBar } from './Navbar';
 
-function App() {
+export function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavBar />
+      <TopSection />
+      <FirstSection />
+      <SecondSection />
+      <ThirdSection />
+      <Footer />
     </div>
   );
 }
 
-export default App;
+
