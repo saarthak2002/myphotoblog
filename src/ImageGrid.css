@@ -4,6 +4,9 @@
 .SFHeading {
     color: black;
     text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-size: 60px;
+    margin: 20px 0;
 }
 .gridOutter{
     display: flex;

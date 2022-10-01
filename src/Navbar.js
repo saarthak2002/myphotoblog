@@ -12,9 +12,6 @@ export function NavBar() {
         <NavLink to="/about" className="nav_link">About</NavLink>
         <NavLink to="/contact" className="nav_link">Contact</NavLink>
 
-        {/* <Link to="/" className="navbaritem">Home</Link>
-        <Link to="/about" className="navbaritem">About</Link>
-        <Link to="/contact" className="navbaritem">Contact</Link> */}
       </nav>
       </div>
     );
