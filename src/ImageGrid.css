@@ -2,7 +2,8 @@
     box-sizing: border-box;
   }
 .SFHeading {
-    color: greenyellow;
+    color: black;
+    text-align: center;
 }
 .gridOutter{
     display: flex;
