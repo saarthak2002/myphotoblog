@@ -1,7 +1,7 @@
 import nyc from './nyc.png';
 import { useNavigate } from 'react-router-dom';
 
-const content = "Lorem ipsum dolor sit amet. Et ipsum cupiditate qui eligendi rerum et voluptatem esse et velit sunt eum provident cupiditate? Ut consequatur deserunt est quisquam quibusdam sed harum autem sit aliquam soluta et Quis tenetur eos sint possimus et error sunt."
+const content = "New York City always had me returning for more- the allure of the Big Apple had bewitched me. With its glimmering billboards and colossal yet amicable skyscrapers, New York City is an assault on the senses in the best way possible."
 
 export function SecondSection() {
     let navigate = useNavigate();

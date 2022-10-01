@@ -1,6 +1,6 @@
 import treeImage from './goldengatebridge.png';
 import { useNavigate } from 'react-router-dom';
-const content = "Lorem ipsum dolor sit amet. Et ipsum cupiditate qui eligendi rerum et voluptatem esse et velit sunt eum provident cupiditate? Ut consequatur deserunt est quisquam quibusdam sed harum autem sit aliquam soluta et Quis tenetur eos sint possimus et error sunt.";
+const content = "Quaint, ocean-kissed San Francisco has an air of optimism about it. The picturesque city by the bay feels like a tenderly painted canvas with its pastel hues gently draped in sunlight. It fills you with the promise of many serendipitous moments.";
 
 
 
