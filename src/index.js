@@ -8,6 +8,7 @@ import { SanFrancisco } from './SanFrancisco';
 import { NewYorkCity } from './NewYorkCity';
 
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { WashingtonDC } from './WashingtonDC';
 
 
 
@@ -20,6 +21,7 @@ ReactDOM.render(
       <Route path="/contact" element={<About />} />
       <Route path="/sfo" element={<SanFrancisco />} />
       <Route path="/nyc" element={<NewYorkCity />} />
+      <Route path="/dc" element={<WashingtonDC />} />
     </Routes>
   </BrowserRouter>,
   document.getElementById('root')

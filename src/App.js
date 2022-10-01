@@ -1,7 +1,6 @@
 import './App.css';
 import { FirstSection } from './firstSection';
 import { SecondSection } from './secondSection';
-import {Link} from 'react-router-dom';
 import { TopSection } from './topSection';
 import { Footer } from './Footer'
 import {ThirdSection} from './thirdSection';
