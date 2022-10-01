@@ -183,3 +183,13 @@ a.nav_link:hover {
   font-size: 50px;
 }
 
+.natureSection {
+  color: white;
+  height: 400px;
+  display: flex;
+  font-size: 55px;
+  justify-content: center;
+  align-items: flex-end;
+  background-image: url("./Images/Covers/nature.png");
+  background-size: cover;
+}
