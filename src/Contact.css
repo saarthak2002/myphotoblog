@@ -1,0 +1,18 @@
+.socialIcons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow:column wrap;
+    padding: 20px 0;
+}
+
+.socialIcons ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.socialIcons ul li{
+    padding: 10px;
+}
