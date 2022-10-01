@@ -17,6 +17,7 @@ export function SanFrancisco(){
                     <img src={require("./Images/SF/beachships.png")} alt={"Large ships near a beach"}/>
                     <img src={require("./Images/SF/ghirardellisquare.png")} alt={"Famous Ghirardelli Square in San Francisco"}/>
                     <img src={require("./Images/SF/pier39.png")} alt={"Pier 39 in San Francisco"}/>
+                    <img src={require("./Images/SF/hookshop.png")} alt={"A shop at Pier 39 in San Francisco"}/>
                 </div>
                 <div className="column">
                     <img src={require("./Images/SF/fishermanswharf.png")} alt={"Fisherman's Wharf in San Francisco"}/>
@@ -27,6 +28,7 @@ export function SanFrancisco(){
                     <img src={require("./Images/SF/boatsinmarina.png")} alt={"Boats moored in a marina"}/>
                     <img src={require("./Images/SF/goldengateoverlook.png")} alt={"View overlooking the Golden Gate Bridge"}/>
                     <img src={require("./Images/SF/lombardstreetoverlook.png")} alt={"Sceneic view overlooking Lombard Street and San Francisco"}/>
+                    <img src={require("./Images/SF/boatsinMarina2.png")} alt={"Boats in clear blue water"}/>
                 </div>
             </div>  
             <Footer />
