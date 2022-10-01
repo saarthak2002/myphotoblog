@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myphotoblog/static/css/main.77797839.css",
-    "main.js": "/myphotoblog/static/js/main.1305e165.js",
+    "main.js": "/myphotoblog/static/js/main.b414ef3f.js",
     "static/media/nature.png": "/myphotoblog/static/media/nature.61014ca73ea540db8ec1.png",
     "static/media/lombardstreet1.png": "/myphotoblog/static/media/lombardstreet1.f4c1a0e04505ced2c103.png",
     "static/media/lombardstreetoverlook.png": "/myphotoblog/static/media/lombardstreetoverlook.159775eec1a76109f058.png",
@@ -24,10 +24,10 @@
     "static/media/skylineoutline.jpeg": "/myphotoblog/static/media/skylineoutline.1cfc47ac8cf55f73d408.jpeg",
     "index.html": "/myphotoblog/index.html",
     "main.77797839.css.map": "/myphotoblog/static/css/main.77797839.css.map",
-    "main.1305e165.js.map": "/myphotoblog/static/js/main.1305e165.js.map"
+    "main.b414ef3f.js.map": "/myphotoblog/static/js/main.b414ef3f.js.map"
   },
   "entrypoints": [
     "static/css/main.77797839.css",
-    "static/js/main.1305e165.js"
+    "static/js/main.b414ef3f.js"
   ]
 }
