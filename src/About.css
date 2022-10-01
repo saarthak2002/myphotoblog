@@ -1,0 +1,23 @@
+.pageTitle{
+    align-items: center;
+    text-align: center;
+}
+.aboutSectionWrapper {
+    display: flex;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 60px 0 120px;
+}
+.aboutSectionWrapper img {
+    height: 90%;
+    width: 50%;
+}
+
+.aboutText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: top;
+    margin: 0 60px;
+}
