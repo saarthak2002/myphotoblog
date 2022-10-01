@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myphotoblog/static/css/main.77797839.css",
-    "main.js": "/myphotoblog/static/js/main.d7384f04.js",
+    "main.css": "/myphotoblog/static/css/main.5be5488c.css",
+    "main.js": "/myphotoblog/static/js/main.c87052ae.js",
     "static/media/christmaslightsathudsonyards.png": "/myphotoblog/static/media/christmaslightsathudsonyards.255602cedbc66aefec1e.png",
     "static/media/nature.png": "/myphotoblog/static/media/nature.61014ca73ea540db8ec1.png",
     "static/media/lombardstreet1.png": "/myphotoblog/static/media/lombardstreet1.f4c1a0e04505ced2c103.png",
@@ -41,13 +41,14 @@
     "static/media/statueofliberty.png": "/myphotoblog/static/media/statueofliberty.804e2e10dac78236dfaf.png",
     "static/media/madisonavesnow.png": "/myphotoblog/static/media/madisonavesnow.6723dcc1cb45ee1a8d4f.png",
     "static/media/washmonu.png": "/myphotoblog/static/media/washmonu.4b03a008bfb6b7114a14.png",
+    "static/media/saarthak.jpg": "/myphotoblog/static/media/saarthak.4d38e30990983a407701.jpg",
     "static/media/skylineoutline.jpeg": "/myphotoblog/static/media/skylineoutline.1cfc47ac8cf55f73d408.jpeg",
     "index.html": "/myphotoblog/index.html",
-    "main.77797839.css.map": "/myphotoblog/static/css/main.77797839.css.map",
-    "main.d7384f04.js.map": "/myphotoblog/static/js/main.d7384f04.js.map"
+    "main.5be5488c.css.map": "/myphotoblog/static/css/main.5be5488c.css.map",
+    "main.c87052ae.js.map": "/myphotoblog/static/js/main.c87052ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.77797839.css",
-    "static/js/main.d7384f04.js"
+    "static/css/main.5be5488c.css",
+    "static/js/main.c87052ae.js"
   ]
 }
