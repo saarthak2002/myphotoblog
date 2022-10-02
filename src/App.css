@@ -173,12 +173,18 @@ a.nav_link:hover {
   cursor: pointer;
   background-color: #698996;
 }
-
+.titleContainer{
+  text-align: center;
+  align-items: center;
+}
 .title {
   text-align: center;
   margin: 0;
   font-family: 'Permanent Marker', cursive;
   font-size: 50px;
+  cursor: pointer;
+  width:400px;
+  display: inline-block;
 }
 
 .natureSection {
