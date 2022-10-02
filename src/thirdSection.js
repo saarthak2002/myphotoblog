@@ -1,4 +1,4 @@
-import monumentImage from './washmonu.png';
+import monumentImage from './Images/washmonu.png';
 import { useNavigate } from 'react-router-dom';
 
 const content = "Washington, D.C. is a city of many mysteries- a metropolis that you can mold by your perspective. The museums of Washington, D.C. house many wonders like dinosuars, a sarcophagus, and even a space shuttle. At night, it transforms into a display of zestful delight.";

@@ -1,6 +1,5 @@
 import { NavBar } from "./Navbar";
-import { Footer } from './Footer'
-//import './About.css';
+import { Footer } from './Footer';
 import './Contact.css';
 import { SocialIcon } from 'react-social-icons';
 

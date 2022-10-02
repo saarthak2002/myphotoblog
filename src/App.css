@@ -1,5 +1,3 @@
-
-
 .App {
   text-align: center;
 }
@@ -15,7 +13,7 @@
   font-size: 55px;
   justify-content: center;
   align-items: flex-end;
-  background-image: url("./skylineoutline.jpeg");
+  background-image: url("./Images/Covers/skylineoutline.jpeg");
 }
 
 .topmostSection h1{
