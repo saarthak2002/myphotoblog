@@ -2,8 +2,6 @@ import { NavBar } from "./Navbar";
 import { Footer } from './Footer'
 import './About.css';
 
-const content = "Lorem ipsum dolor sit amet. Et ipsum cupiditate qui eligendi rerum et voluptatem esse et velit sunt eum provident cupiditate? Ut consequatur deserunt est quisquam quibusdam sed harum autem sit aliquam soluta et Quis tenetur eos sint possimus et error sunt.";
-
 export function About(){
     return(
         <div className="aboutPage">

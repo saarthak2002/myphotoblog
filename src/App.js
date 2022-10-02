@@ -6,6 +6,7 @@ import { Footer } from './Footer'
 import {ThirdSection} from './thirdSection';
 import { NavBar } from './Navbar';
 import {NatureSection} from './NatureSection';
+import {YosemiteHomeSection} from './YosemiteHomeSec';
 
 export function App() {
   return (
@@ -17,6 +18,8 @@ export function App() {
       <ThirdSection />
       <div><h1></h1></div>
       <NatureSection />
+      <div><h1></h1></div>
+      <YosemiteHomeSection />
       <div><h1></h1></div>
       <Footer />
     </div>
