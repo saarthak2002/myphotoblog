@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/myphotoblog/static/css/main.9094d559.css",
+    "main.css": "/myphotoblog/static/css/main.7fc11c79.css",
     "main.js": "/myphotoblog/static/js/main.8a06e0ff.js",
     "static/media/christmaslightsathudsonyards.png": "/myphotoblog/static/media/christmaslightsathudsonyards.255602cedbc66aefec1e.png",
     "static/media/nature.png": "/myphotoblog/static/media/nature.61014ca73ea540db8ec1.png",
@@ -68,11 +68,11 @@
     "static/media/saarthak.jpg": "/myphotoblog/static/media/saarthak.4d38e30990983a407701.jpg",
     "static/media/skylineoutline.jpeg": "/myphotoblog/static/media/skylineoutline.1cfc47ac8cf55f73d408.jpeg",
     "index.html": "/myphotoblog/index.html",
-    "main.9094d559.css.map": "/myphotoblog/static/css/main.9094d559.css.map",
+    "main.7fc11c79.css.map": "/myphotoblog/static/css/main.7fc11c79.css.map",
     "main.8a06e0ff.js.map": "/myphotoblog/static/js/main.8a06e0ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.9094d559.css",
+    "static/css/main.7fc11c79.css",
     "static/js/main.8a06e0ff.js"
   ]
 }
