@@ -199,6 +199,7 @@ a.nav_link:hover {
 }
 .topSectionYosemite {
   justify-content: center;
+  overflow: scroll;
 }
 .yoseMite{
   font-family: fantasy;
